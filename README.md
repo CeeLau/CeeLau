@@ -1,8 +1,8 @@
 Hi, I’m @CeeLau
-I’m interested in performance measurement, applying digital standards, improving the #GC
-I’m currently learning about open source.
-I’m looking to collaborate on #digital, #service #improvement.
-You may reach me at christine.lau@tbs-sct.gc.ca
+- I’m interested in performance measurement, applying digital standards, improving the #GC
+- I’m currently learning about open source.
+- I’m looking to collaborate on #digital, #service #improvement.
+- You may reach me at christine.lau@tbs-sct.gc.ca
 
 <!---
 CeeLau/CeeLau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
