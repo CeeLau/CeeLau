@@ -1,7 +1,7 @@
 Hi, I’m @CeeLau
 - I’m interested in performance measurement, applying digital standards, improving the #GC
 - I’m currently learning about open source.
-- I’m looking to collaborate on #digitalTransformation, #service #improvement, and #changeManagement
+- I’m looking to collaborate on #digitalTransformation, #service #improvement, #dashboards, and #changeManagement
 - You may reach me at christine.lau@tbs-sct.gc.ca
 
 <!---
